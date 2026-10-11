@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "jazzband",
+  "repo": "django-fernet-encrypted-fields",
+  "versions": [
+    {
+      "commit": "fb8f3bf51eb4bb03ffc6afa0ebcc8dfa55f3dc44",
+      "parsed_at": "2026-10-11T01:47:30.748460+00:00",
+      "filetree": "filetree/fb8f3bf51eb4bb03ffc6afa0ebcc8dfa55f3dc44.nq.gz",
+      "blobs": [
+        "blob/0a9ff2401fa66edd3d6ba3447f4eabf43f3bacd3.nq.gz",
+        "blob/9d56770724cd8a66d5e81e915f25bfd8f224cf01.nq.gz",
+        "blob/bf8f3001e1fa09efbf01627f69b7b00910871691.nq.gz",
+        "blob/8a1ce8710bfbfa4388b096dce9fbb57f78fff853.nq.gz",
+        "blob/e169bcbc5f5b648814639340e8587f28d2160e00.nq.gz",
+        "blob/c60db26624dcb5abd3191eee679e339ad176f419.nq.gz",
+        "blob/94c503f50a6f8a0c767382a2ec725eaae318f9f2.nq.gz",
+        "blob/86f8d2d72dcb1f2f23d1fe8457c0c1f87a57f732.nq.gz",
+        "blob/dbe5feafb9711d6d7289ecd71c29dd1ce6f98714.nq.gz",
+        "blob/918ff66dc0042da05b657494c52dc03faf94df99.nq.gz",
+        "blob/ef44a07087bc87d83f3179d1e3471c0a8f050c5b.nq.gz",
+        "blob/c5770023ac372bbf6f2b9364472e9ff5a4262df6.nq.gz",
+        "blob/ff1f2f0d0a1dc802507d271870f8e9b621902b78.nq.gz",
+        "blob/e2c9c3abded4100ef2e090a5bdf731a204faa634.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
