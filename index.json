@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-fernet-encrypted-fields",
+  "versions": [
+    {
+      "commit": "fb8f3bf51eb4bb03ffc6afa0ebcc8dfa55f3dc44",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:50:11.151188+00:00"
+    }
+  ]
+}
