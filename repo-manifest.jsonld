@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-fernet-encrypted-fields/commit/fb8f3bf51eb4bb03ffc6afa0ebcc8dfa55f3dc44",
       "git:hexsha": "fb8f3bf51eb4bb03ffc6afa0ebcc8dfa55f3dc44",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-fernet-encrypted-fields/commit/6e3ea2240578335f383a806adda5d5ffa2699a91",
